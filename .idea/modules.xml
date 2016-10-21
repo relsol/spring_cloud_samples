@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/compute-service8888/compute-service8888.iml" filepath="$PROJECT_DIR$/compute-service8888/compute-service8888.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compute-service8889/compute-service8889.iml" filepath="$PROJECT_DIR$/compute-service8889/compute-service8889.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign_client/feign_client.iml" filepath="$PROJECT_DIR$/feign_client/feign_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon_client/ribbon_client.iml" filepath="$PROJECT_DIR$/ribbon_client/ribbon_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_samples.iml" filepath="$PROJECT_DIR$/spring_cloud_samples.iml" />
+    </modules>
+  </component>
+</project>
