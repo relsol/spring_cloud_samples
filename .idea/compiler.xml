@@ -27,6 +27,7 @@
         <module name="eureka-server" />
         <module name="feign_client" />
         <module name="ribbon_client" />
+        <module name="zuul_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -36,6 +37,7 @@
       <module name="feign_client" target="1.6" />
       <module name="ribbon_client" target="1.6" />
       <module name="spring_cloud_samples" target="1.6" />
+      <module name="zuul_demo" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

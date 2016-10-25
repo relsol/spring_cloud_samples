@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/feign_client/feign_client.iml" filepath="$PROJECT_DIR$/feign_client/feign_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/ribbon_client/ribbon_client.iml" filepath="$PROJECT_DIR$/ribbon_client/ribbon_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_cloud_samples.iml" filepath="$PROJECT_DIR$/spring_cloud_samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_demo/zuul_demo.iml" filepath="$PROJECT_DIR$/zuul_demo/zuul_demo.iml" />
     </modules>
   </component>
 </project>
