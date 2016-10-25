@@ -13,6 +13,7 @@
         <module>compute-service8889</module>
         <module>ribbon_client</module>
         <module>feign_client</module>
+        <module>zuul_demo</module>
     </modules>
     <packaging>pom</packaging>
 
